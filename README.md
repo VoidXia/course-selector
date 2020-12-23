@@ -20,7 +20,7 @@ A course selection helper for Shanghai Koutuu University.
 ## Environment:
 Tested under:
 
-    macos 10.14.6 and Windows 10
+    macOS 10.14.6 and Windows 10
     
 Requirements:
 
