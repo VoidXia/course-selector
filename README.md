@@ -1,6 +1,8 @@
 # course-selector
 A course select helper for Shanghai Koutuu University.
 
+<br>
+
 ## Parameters:
 
 1st :    &ensp; &emsp; &emsp;   The course type id. It represents the position of tab you want to search under.
@@ -12,6 +14,8 @@ A course select helper for Shanghai Koutuu University.
 
 ## Example: 
     python3 main.py 1 EI015 EI015-5
+
+<br>
 
 ## Environment:
 Tested under:
