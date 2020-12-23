@@ -1,5 +1,5 @@
 # course-selector
-A course select helper for Shanghai Koutuu University.
+A course selection helper for Shanghai Koutuu University.
 
 <br>
 
